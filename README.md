@@ -33,18 +33,20 @@ Permite controle de usuários, cadastro de servidores, órgãos, cargos, e gera�
    git clone https://github.com/seuusuario/egov-sistema-gestao.git
    cd egov-sistema-gestao
 
-2. Crie um ambiente virtual (opcional, mas recomendado):
+2. **Crie um ambiente virtual (opcional, mas recomendado):**
+   ```bash
    python -m venv venv
    source venv/bin/activate  # Linux
    venv\Scripts\activate     # Windows
 
-🗄️ Banco de Dados
+---
 
-O sistema utiliza SQLite como base local.
-Um exemplo de banco (exemplo_banco.db) pode ser usado para testes.
-Para acesso você pode utilizar:
-Usuário: Julio
-Senha: 1234
+## 🗄️ Banco de Dados
+
+O sistema utiliza SQLite como base local. Um exemplo de banco (exemplo_banco.db) pode ser usado para testes.
+- Para acesso você pode utilizar:
+- Usuário: Julio
+- Senha: 1234
 
 👨‍💻 Autor
 
