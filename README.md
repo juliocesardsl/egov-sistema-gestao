@@ -43,7 +43,7 @@ Permite controle de usuários, cadastro de servidores, órgãos, cargos, e gera�
 
 ## 🗄️ Banco de Dados
 
-O sistema utiliza SQLite como base local. Um exemplo de banco (exemplo_banco.db) pode ser usado para testes.
+O sistema utiliza SQLite como base local. Um exemplo de banco (banco.db) pode ser usado para testes.
 - Para acesso você pode utilizar:
 - Usuário: Julio
 - Senha: 1234
