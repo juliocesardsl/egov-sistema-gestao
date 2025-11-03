@@ -1,0 +1,51 @@
+NOVO_SISTEMA_EGOV
+
+CAMPOS NÃO NECESSÁRIOS
+código do órgão
+código da folha
+UF
+TIPO DE CONTA
+DIGITO DA CONTA
+MENOR OU INCAPAZ
+PROCESSO JUDICIAL
+NUMERO DA VARA
+DATA DA DECISÃO
+DATA DO OFICÍO
+EMENTA DA DECISÃO
+
+ADAPTAR RELAÇÃO DE INDICES PARA NIVEL DO VENCIMENTO BASICO CARREIRA E CARGO
+
+ACRESCENTAR O CAMPO 
+	ORGÃO DE ORIGEM Nº E DESCRIÇÃO
+	LINK DECLARAÇÃO FUNCIONAL
+LEGISLAÇÃO DECRETRO 33871/2012 E ART 100 LEI 840
+
+NO PAGAMENTO ACRESCENTAR CAMPO PARA PAGAR DIFERENÇA QUANDO HOUVER
+
+PAGFIT04 PAGEMP01 PAGEMP02 PAGEMP03 PAGEMP05
+
+
+Acrescentar os seguintes campos
+
+GRAU DE INSTRUÇÃO (DOUTORADO,MESTRADO,PÓS-GRADUAÇÃO,GRADUAÇÃO, NÍVEL MÉDIO)
+Nº do ÓRGÃO DE ORIGEM
+Descrição do órgão de Origem
+Cargo Efetivo (tipo lista)
+Link declaração Funcional
+
+______________________________06/10/2025______________________________________________________________
+Criar uma nova Tabela chamada Cargo_Efetivo contento 2 colunas descrição cargo; valor_maior_vencimento
+Criar funcionalidade para cadastrar cargo efetivo. Onde será informado a descrição do cargo e o valor do maior vencimento
+Criar uma tabela Orgão de origem com o número do órgão e a descrição
+Criar funcionalidade para cadastrar órgão de origem. Onde será informado o número do órgão e a descrição
+Criar uma tabela chamada imposto de renda que conterá as seguintes colunas valor mínimo, valor máximo, indcidênica(tipo porcentagem), Valor_dedução
+Criar funcionalidade que permita cadastrar o valores acima na tabela imposto de renda
+
+Na janela de cadastro vamos colocar um campo para informar o cargo efetivo (combobox) que irá puxar as informações da tabela cargo efetivo para preencher automático apenas selecionando o órgão desejado
+Na janela de cadastro vamos colocar um campo para informar o órgão de origem (combobox) que irá puxar as informações da tabela órgão de origem para preencher automático apenas selecionando o órgão desejado
+
+	
+[11:44, 22/09/2025] Rosilene Fundo Pro Gestao EGOV: CNPJ Fundo Pró-Gestão
+[11:45, 22/09/2025] Rosilene Fundo Pro Gestao EGOV: 05.140.324/0001-49
+
+
