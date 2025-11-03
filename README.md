@@ -51,7 +51,7 @@ O sistema utiliza SQLite como base local. Um exemplo de banco (banco.db) pode se
 👨‍💻 Autor
 
 Desenvolvido por julio.slima
-📧 julio.slima.dev@gmail.com
+- 📧 julio.slima.dev@gmail.com
 
 💼 Secretaria de Estado de Economia, DF (SEEC)
 
